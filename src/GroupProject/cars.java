@@ -17,5 +17,7 @@ public interface cars {
 
     public void CarTraction();
 
+    public void FuelEconomy();
+
 
 }
