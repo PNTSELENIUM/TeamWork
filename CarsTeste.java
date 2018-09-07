@@ -13,6 +13,7 @@ public class CarsTeste {
        Car1.CarTraction();
         System.out.println("im almost done");
         System.out.println("this is my dream car");
+        System.out.println("midterm");
 
 
 
